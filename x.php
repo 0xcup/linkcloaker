@@ -1,5 +1,3 @@
-
-
 <?php
 $allowedcountries= 'US';// ALLOWED COUNTRIES TO REACH THE $urlgood url
 $url = './index.php'; //you will have to make your own 404.php
